@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "677558433144",
+    "project_id": "cryptofolio-bc8e1",
+    "storage_bucket": "cryptofolio-bc8e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677558433144:android:1054eca79169538025448d",
+        "android_client_info": {
+          "package_name": "com.example.navegacao1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlLoC1yGmUTfYx90epRFVW_aPgS7Y1dVc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
